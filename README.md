@@ -1,5 +1,5 @@
 # Summarizer
-![Capture](/Capture.PNG)
+![Capture](Capture.PNG)
 The Summarizer is a simple website designed to summarize Arabic text using the ChatGPT API. It utilizes the OpenAI API for text summarization.
 # How to Use
 Follow the steps below to use the Summarizer:
