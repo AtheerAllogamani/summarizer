@@ -1,5 +1,5 @@
 # Summarizer
-![Capture](https://github.com/AtheerAllogamani/summarizer/assets/100247724/302b70e8-b8d6-40d2-9fd8-8a0d043a16ce)
+![Capture](https://drive.google.com/file/d/16ZDQlocIbrqD59H_1QbAMN1XzNoQ7J7n/view?usp=sharing)
 The Summarizer is a simple website designed to summarize Arabic text using the ChatGPT API. It utilizes the OpenAI API for text summarization.
 # How to Use
 Follow the steps below to use the Summarizer:
