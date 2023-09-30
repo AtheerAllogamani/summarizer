@@ -13,7 +13,7 @@ submitButton.addEventListener("click", () => {
     SendQuestion();
   }
 });
-const OPENAI_API_KEY = "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";
+const OPENAI_API_KEY = "YOUR-API-KEY";
 
 function SendQuestion() {
   var sQuestion = "summarize this text (" + inputQuestion.value + ")";
